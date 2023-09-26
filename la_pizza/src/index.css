@@ -1,0 +1,73 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Sora", sans-serif;
+
+}
+
+
+header {  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 32vh;
+  background-image: url("https://encurtador.com.br/klvLU");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 65px;
+}
+
+h2{ font-size: 40px;}
+
+.container2{ display: flex;
+justify-content: center;
+justify-content: space-evenly;}
+
+.container2 figure{ text-align: center;
+  border-radius: 20px;
+  border: solid 3px;
+  padding: 20px;
+  box-shadow: rgb(121, 73, 11) 8px 8px 8px;}
+
+  .container1{ display: flex;
+    justify-content: center;
+    height: 35vh;
+    margin-top: 5px;
+  width: 100%;
+  align-items: center;}
+
+.d-c1 p{font-size: 20px;}
+
+ main{ height: 100vh;}
+.sobre{ display: flex;
+justify-content: space-evenly ;}
+
+.sobre2{ width:50% ;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+footer img{ height: 250px;
+width: 350px;}
+
+footer p{
+width: 40%;
+font-size: 20px;}
+
+h3{font-size: 30px;}
+
+button{ background-color: orange;
+border-radius: 15px;}
+
+
+
+
+
+
+
